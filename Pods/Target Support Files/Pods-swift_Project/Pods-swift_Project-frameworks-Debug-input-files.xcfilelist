@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-swift_Project/Pods-swift_Project-frameworks.sh
+${BUILT_PRODUCTS_DIR}/BTNavigationDropdownMenu/BTNavigationDropdownMenu.framework
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/ReachabilitySwift.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework

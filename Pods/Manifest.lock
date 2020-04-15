@@ -1,0 +1,26 @@
+PODS:
+  - BTNavigationDropdownMenu (0.5)
+  - ReachabilitySwift (3)
+  - SDWebImage (5.4.0):
+    - SDWebImage/Core (= 5.4.0)
+  - SDWebImage/Core (5.4.0)
+
+DEPENDENCIES:
+  - BTNavigationDropdownMenu
+  - ReachabilitySwift (~> 3.0)
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - BTNavigationDropdownMenu
+    - ReachabilitySwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  BTNavigationDropdownMenu: ba3a26fdb6a56c4721c31df8a0875106c259663a
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SDWebImage: 5bf6aec6481ae2a062bdc59f9d6c1d1e552090e0
+
+PODFILE CHECKSUM: b24fb4de922b8b85817cd6ca8a54e33df8b64b10
+
+COCOAPODS: 1.8.4
